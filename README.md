@@ -15,6 +15,8 @@ Pre-requisites
 * Experience with Kotlin syntax.
 * How to create and run a project in Android Studio.
 
+* The various steps are described below.
+
 
 Getting Started
 ---------------
